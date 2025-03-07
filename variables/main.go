@@ -14,4 +14,5 @@ func main() {
 
 	// Calling the function from primitive_types.go
 	PrimitiveTypesExample()
+	ZeroValuesExample()
 }
