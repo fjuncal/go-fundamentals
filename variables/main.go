@@ -11,4 +11,7 @@ func main() {
 	fmt.Println("Nome:", name)
 	fmt.Println("Idade:", age)
 	fmt.Println("PI:", PI)
+
+	// Calling the function from primitive_types.go
+	PrimitiveTypesExample()
 }
