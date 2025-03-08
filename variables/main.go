@@ -16,5 +16,6 @@ func main() {
 	PrimitiveTypesExample()
 	ZeroValuesExample()
 	TypeInferenceExample()
+	PointersExample()
 
 }
